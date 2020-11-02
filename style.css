@@ -1,0 +1,106 @@
+
+/**Header**/
+
+.resumeHeader{
+    font-family: roboto;
+    padding-bottom: 1px;
+}
+
+.job{
+    font-size: 20px;
+}
+
+/** Nav bar styles **/
+nav{
+    margin:0;
+    padding:0;
+    text-align:center;
+ }
+
+nav ul{
+list-style: none;
+text-align:  center;
+}
+
+nav ul li{
+    display: inline-block;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav .navbar-nav li a{
+    color: #000000 !important;
+    text-align: center;
+    font-size: 1.488vh;
+    font-size: 1.488vw;
+  }
+
+nav .navbar-nav .nav-item{
+  color: white !important;
+
+  }
+
+
+
+/** About Me Section */
+
+.about{
+    color: #CC5500;
+
+}
+
+.aboutMeText{
+    font-size: 13px;
+    color: #000000;
+    text-align: left;
+}
+
+/**Professional Experience section**/
+
+.professional{
+    color: #CC5500;
+}
+
+/**  Education */
+.capstone{
+    font-size: 13px;
+}
+
+.professionalExperience li {
+    font-size: 13px;
+}
+
+/**Technical Skills Section**/
+.technical{
+    color: #CC5500;
+}
+
+
+.technicalSkills{
+    font-size: 13px;
+}
+
+
+/**  Footer **/
+.references{
+    padding-top: 7px;
+}
+
+/**global declarations**/
+
+h1, h2, h3, h4, h5, h6{
+    font-family: roboto;
+}
+
+h1{
+    font-size: 3em;
+}
+
+header{
+
+}
+
+section{
+    background: white ;
+}
